@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/PortFolio-KashyapRathod/static/css/main.48b505da.css",
+    "main.js": "/PortFolio-KashyapRathod/static/js/main.7cb801a5.js",
+    "static/js/415.4d6acbeb.chunk.js": "/PortFolio-KashyapRathod/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortFolio-KashyapRathod/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.png": "/PortFolio-KashyapRathod/static/media/home-main.1a8ba02f73e3f7a87348.png",
+    "static/media/talkvision.png": "/PortFolio-KashyapRathod/static/media/talkvision.25b1d975d3a855b35f59.png",
+    "static/media/WebForumX.png": "/PortFolio-KashyapRathod/static/media/WebForumX.4028ad98ee317fffc246.png",
+    "static/media/jsdevstore.png": "/PortFolio-KashyapRathod/static/media/jsdevstore.c092676677f098f4ad3e.png",
+    "static/media/Agroverse.png": "/PortFolio-KashyapRathod/static/media/Agroverse.10b7014c9090278b5af6.png",
+    "static/media/home-main.svg": "/PortFolio-KashyapRathod/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/PortFolio-KashyapRathod/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/TaskXpress.png": "/PortFolio-KashyapRathod/static/media/TaskXpress.a86bb91097f3c7ab6904.png",
+    "static/media/chaascode.png": "/PortFolio-KashyapRathod/static/media/chaascode.5c8897e171597fadf053.png",
+    "static/media/heackathon.png": "/PortFolio-KashyapRathod/static/media/heackathon.18081914523fd69d73f2.png",
+    "static/media/preciouse.png": "/PortFolio-KashyapRathod/static/media/preciouse.04f165ba040d0f7db7f8.png",
+    "static/media/conversa.png": "/PortFolio-KashyapRathod/static/media/conversa.7206044e0b5cdad44726.png",
+    "static/media/Kashyap's Resume.pdf": "/PortFolio-KashyapRathod/static/media/Kashyap's Resume.e86b622ae9266bb888e0.pdf",
+    "static/media/Textutils.png": "/PortFolio-KashyapRathod/static/media/Textutils.74759f64b940041a4612.png",
+    "static/media/home-bg.jpg": "/PortFolio-KashyapRathod/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/PortFolio-KashyapRathod/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/PortFolio-KashyapRathod/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/PortFolio-KashyapRathod/index.html",
+    "main.48b505da.css.map": "/PortFolio-KashyapRathod/static/css/main.48b505da.css.map",
+    "main.7cb801a5.js.map": "/PortFolio-KashyapRathod/static/js/main.7cb801a5.js.map",
+    "415.4d6acbeb.chunk.js.map": "/PortFolio-KashyapRathod/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortFolio-KashyapRathod/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48b505da.css",
+    "static/js/main.7cb801a5.js"
+  ]
+}
